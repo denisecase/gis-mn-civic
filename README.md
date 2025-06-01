@@ -40,3 +40,7 @@ Refer to the official sites for the most current and authoritative versions.
 - [School Districts](https://open-data-slcgis.hub.arcgis.com/maps/25a498c7b85a44bf8af238139fb8fe2e)
 - [Civil Divisions](https://open-data-slcgis.hub.arcgis.com/maps/1d21431d0ea9423cbcc6cffb56e29c8a)
 - [Commissioner Districts](https://open-data-slcgis.hub.arcgis.com/maps/2d43c4be95eb40dfaa4b3313e56397a8)
+
+## Viewer
+
+Click [**here**](https://mybinder.org/v2/gh/denisecase/mn-gis-boundaries/HEAD?urlpath=voila/render/main.ipynb) to view boundaries.
