@@ -1,6 +1,6 @@
 # Minnesota GIS Boundaries
 
-[![Launch Minnesota GIS Boundaries](https://img.shields.io/badge/Launch-Life_Expectancy_Compare-blue?logo=binder)](https://mybinder.org/v2/gh/denisecase/mn-gis-boundaries/HEAD?urlpath=voila%2Frender%2Fnotebooks%2Fmain.ipynb)
+[![Launch Minnesota GIS Boundaries](https://img.shields.io/badge/Launch-Minnesota_GIS-blue?logo=binder)](https://mybinder.org/v2/gh/denisecase/mn-gis-boundaries/HEAD?urlpath=voila%2Frender%2Fnotebooks%2Fmain.ipynb)
 
 > Explore public geographic boundary data for Minnesota counties, including precincts, polling places, school districts, and county borders. 
 
