@@ -1,0 +1,28 @@
+{
+  "county_id": 69,
+  "county_name": "St. Louis",
+  "geojson_files": [
+    "Voting_Precincts2C_MN.geojson",
+    "Polling_Places2C_MN.geojson",
+    "School_Districts2C_MN.geojson",
+    "County_Boundary2C_MN.geojson",
+    "Minor_Civil_Divisions.geojson",
+    "Commissioner_Districts.geojson"
+  ],
+  "source": {
+    "organization": "St. Louis County GIS",
+    "data_portal": "https://open-data-slcgis.hub.arcgis.com/",
+    "download_links": {
+      "Voting Precincts": "https://open-data-slcgis.hub.arcgis.com/maps/b9bf94e80d994aaba6eeb8e6995e7bf8",
+      "Polling Places": "https://open-data-slcgis.hub.arcgis.com/maps/cc8f2caab4bc45629563f6d8198c6746",
+      "School Districts": "https://open-data-slcgis.hub.arcgis.com/maps/25a498c7b85a44bf8af238139fb8fe2e",
+      "County Boundary": "https://open-data-slcgis.hub.arcgis.com/maps/038b4dede892458484b1ea1faa5df354",
+      "Civil Divisions": "https://open-data-slcgis.hub.arcgis.com/maps/1d21431d0ea9423cbcc6cffb56e29c8a",
+      "Commissioner Districts": "https://open-data-slcgis.hub.arcgis.com/maps/2d43c4be95eb40dfaa4b3313e56397a8"
+    }
+  },
+  "format": "GeoJSON",
+  "processed_by": "https://github.com/denisecase",
+  "downloaded": "2025-05-30",
+  "notes": "Files were downloaded directly in GeoJSON format and subset by county. No geometry or attributes were modified."
+}

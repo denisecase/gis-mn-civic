@@ -1,0 +1,16 @@
+Open Database License (ODbL) v1.0
+
+This dataset is made available under the Open Database License:
+http://opendatacommons.org/licenses/odbl/1.0/
+
+You are free to:
+- Share: copy, distribute and use the database
+- Create: produce works from the database
+- Adapt: modify, transform and build upon the database
+
+As long as you:
+- Attribute: “Contains data derived from the Minnesota Secretary of State and Minnesota counties, published under the Open Database License.”
+- Share-Alike: Share adapted versions under the same ODbL license.
+- Keep Open: Do not impose restrictions on access.
+
+Full license text: http://opendatacommons.org/licenses/odbl/1.0/
