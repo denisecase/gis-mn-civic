@@ -1,7 +1,11 @@
-# Minnesota County GIS Boundaries
+# Minnesota GIS Boundaries
 
-This repository republishes public geographic boundary data for Minnesota counties, including precincts, polling places, school districts, and county borders. 
-All data is derived from official sources such as the Minnesota Secretary of State and Minnesota county GIS portals.
+[![Launch Minnesota GIS Boundaries](https://img.shields.io/badge/Launch-Life_Expectancy_Compare-blue?logo=binder)](https://mybinder.org/v2/gh/denisecase/mn-gis-boundaries/HEAD?urlpath=voila%2Frender%2Fnotebooks%2Fmain.ipynb)
+
+> Explore public geographic boundary data for Minnesota counties, including precincts, polling places, school districts, and county borders. 
+
+Data is derived from official sources such as the Minnesota Secretary of State and Minnesota county GIS portals.
+Currently **St. Louis County** data is available. 
 
 ## Structure
 
