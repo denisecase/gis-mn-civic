@@ -2,15 +2,19 @@
 
 [![Launch Minnesota GIS Boundaries](https://img.shields.io/badge/Launch-Minnesota_GIS-blue?logo=binder)](https://mybinder.org/v2/gh/denisecase/mn-gis-boundaries/HEAD?urlpath=voila%2Frender%2Fnotebooks%2Fmain.ipynb)
 
-> Explore public geographic boundary data for Minnesota counties, including precincts, polling places, school districts, and county borders. 
+> Explore public geographic boundary data for Minnesota counties, including precincts, polling places, school districts, and county borders.
 
 Data is derived from official sources such as the Minnesota Secretary of State and Minnesota county GIS portals.
-Currently **St. Louis County** data is available. 
+Currently **St. Louis County** data is available.
 
 ## Structure
 
 - `data/`: One folder per county, containing `.geojson` files
 - Each county folder includes a `metadata.json` with source information
+
+## Development
+
+For details on setting up the environment and running Voilà locally, see [REF_DEVELOPERS.md](REF_DEVELOPERS.md).
 
 ## License
 

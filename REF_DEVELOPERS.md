@@ -33,3 +33,25 @@ git add .
 git commit -m "did this"
 git push -u origin main
 ```
+
+## Publishing Interactive Notebooks with Voilà
+
+This project uses Voilà to publish notebooks using interactive widgets (e.g., drop-downs). 
+
+**Try it on Binder**:  
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](
+https://mybinder.org/v2/gh/denisecase/mn-gis-boundaries/HEAD?urlpath=voila%2Frender%2Fnotebooks%2Fmain.ipynb)
+
+### To run Voilà locally
+
+From the project root, run the following command to launch a notebook as a standalone interactive web app.
+
+```bash
+voila main.ipynb
+```
+
+### Development Notes
+
+To publish with Voilà, add `notebook` and `voila` packages to requirements.txt.
+This may affect how charts are rendered during development especially in VS Code. 
+For example, maps and charts may appear multiple times in VS Code notebooks after these two packages are installed.
