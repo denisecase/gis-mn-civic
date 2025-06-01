@@ -40,7 +40,7 @@ This project uses Voilà to publish notebooks using interactive widgets (e.g., d
 
 **Try it on Binder**:  
 [![Open in Binder](https://mybinder.org/badge_logo.svg)](
-https://mybinder.org/v2/gh/denisecase/mn-gis-boundaries/HEAD?urlpath=voila%2Frender%2Fmain.ipynb)
+https://mybinder.org/v2/gh/denisecase/gis-mn-civic/HEAD?urlpath=voila%2Frender%2Fmain.ipynb)
 
 ### To run Voilà locally
 
